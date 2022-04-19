@@ -1,3 +1,3 @@
 # hello-Word
-intento de aprender GitHub
+Aprendiendo git y github para hacer proyectos sin la complicacion de las versiones
 HOLA gente :D
